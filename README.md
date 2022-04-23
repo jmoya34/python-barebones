@@ -1,5 +1,5 @@
-# Python Basics Tutorial
-### The focus of this tutorial is to learn the bare minimum of python to begin coding. A lot will be left out of this guide of python for the sake of time. I will also introduce some syntax we are not like to use, but it is good to be at least exposed to what it is and does. If you would like a more depthful explanation of how python works, I reccomend using youtube guides such as from freecodecamp.
+# Python3 Basics Tutorial
+### The focus of this tutorial is to learn the bare minimum of python to begin coding. A lot will be left out of this guide of python for the sake of time. I will also introduce some syntax we are not likely to use, but it is good to be exposed to what it is and does. If you would like a more depthful explanation of how python works, I reccomend using youtube guides such as from freecodecamp.
 
 <br />
 
@@ -44,4 +44,7 @@
 
 # How to use this tutorial format
  There are going to be seperate folders and each are going to focus on their own topic. Follow the order in which I listed the material I'm going to cover. 
+
+
+
 
